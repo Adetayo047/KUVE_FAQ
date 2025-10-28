@@ -1,0 +1,51 @@
+KUVE Marketplace - Frequently Asked Questions
+General Questions
+What is KUVE?
+KUVE is an AI-powered classifieds marketplace platform that enables secure buying and selling with features like verified profiles, smart pricing, escrow payments, and integrated business tools for sellers.
+What makes KUVE different from other marketplaces?
+KUVE combines AI-powered security features, escrow payment protection, verified seller profiles, and an integrated ecosystem that includes logistics (KUVE Express), lending (KUVE Lend), and point-of-sale systems (KUVE POS) all in one platform.
+Is KUVE available now?
+KUVE is currently in pre-launch phase with a waitlist available. The first 1,000 people to join the waitlist will receive exclusive perks.
+For Buyers
+How does AI-powered shopping work?
+KUVE offers an AI smart assistant that allows you to shop effortlessly using voice commands, text, or even images. Simply describe or show what you're looking for, and the AI will help you find it.
+What is escrow payment and how does it protect me?
+Escrow payment is a secure payment method where your money is held safely until you confirm receipt of your purchase. This ensures your money is protected and your purchases are guaranteed, providing peace of mind for every transaction.
+What is Buy Now Pay Later?
+KUVE offers flexible payment options that allow you to purchase items immediately and pay for them over time, giving you the flexibility to get what you need today without paying the full amount upfront.
+Is there customer support available?
+Yes, KUVE provides 24/7 instant support through an AI-powered chatbot that can answer your questions and provide quick solutions without long wait times.
+How do I know sellers are trustworthy?
+KUVE uses AI-powered verification systems to monitor the platform and ensure sellers are verified. Combined with escrow payments, this creates a secure trading environment.
+For Sellers
+What is KUVE Marketplace?
+KUVE Marketplace is an AI-powered classifieds platform that provides verified profiles, smart pricing tools, escrow payments, and premium seller features including customizable storefronts and an intelligent dashboard.
+Can I create an online store with KUVE?
+Yes, KUVE allows sellers to create their own online storefront and establish a complete online presence through the platform.
+What is KUVE POS?
+KUVE POS (Point of Sale) is a payment system that unifies online and offline sales for sellers of all sizes. It tracks both in-store and online transactions, syncs inventory automatically, and delivers real-time sales insights directly to your seller dashboard.
+What is KUVE Lend?
+KUVE Lend provides AI-powered credit scoring based on your real-time marketplace activity, POS transactions, and logistics data. This enables access to working capital loans for merchants and delivery partners, helping you grow your business.
+How does KUVE Express help my business?
+KUVE Express is an AI-powered logistics solution that provides fast, reliable deliveries for your products. It helps you deliver smarter and sell more with efficient delivery management.
+For Logistics Partners
+What is KUVE Express?
+KUVE Express is a logistics engine designed for SMEs that features route optimization, order matching, delivery tracking, and partner management. It's accessible via API or dashboard with multi-tenant architecture for micro logistic partners.
+Can I integrate KUVE Express with my existing systems?
+Yes, KUVE Express is available as both an API and SaaS solution, allowing for seamless integration with your existing systems.
+Can I get financing as a delivery partner?
+Yes, delivery partners can access working capital loans through KUVE Lend, which uses AI-powered credit scoring based on your logistics activity and performance on the platform.
+Getting Started
+How do I join KUVE?
+You can join the KUVE waitlist by visiting the website and selecting whether you want to join as a buyer, seller, or logistics partner. The first 1,000 people on the waitlist will receive exclusive perks.
+What are the benefits of joining the waitlist early?
+The first 1,000 people to join the waitlist will receive exclusive perks and benefits when KUVE launches.
+When will KUVE launch?
+The specific launch date has not been announced yet, but you can join the waitlist to be notified when the platform becomes available.
+Technical Questions
+What devices can I use KUVE on?
+Based on the preview screens, KUVE will be available on multiple devices including mobile phones, tablets, and desktop computers.
+Is my data secure on KUVE?
+Yes, KUVE uses AI-powered security systems and is constantly monitored to ensure a safe trading environment. The platform also uses escrow payments to protect transactions.
+Does KUVE have an API for developers?
+Yes, KUVE Express (the logistics solution) is available via API, allowing developers and businesses to integrate delivery functionality into their own systems.
