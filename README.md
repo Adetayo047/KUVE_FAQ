@@ -16,6 +16,9 @@ This project is an AI-powered FAQ chatbot for the KUVE Marketplace, designed to 
 
 ## Getting Started
 1. **Clone the repository**
+      ```bash
+   https://github.com/Adetayo047/KUVE_FAQ.git
+   ```
 2. **Set up a Python virtual environment** (optional but recommended):
    ```bash
    python3 -m venv kevenv
