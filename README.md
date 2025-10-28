@@ -1,5 +1,7 @@
 # KUVE FAQ Chatbot
 
+![KUVE FAQ](faq.jpg)
+
 This project is an AI-powered FAQ chatbot for the KUVE Marketplace, designed to answer common questions about the platform for buyers, sellers, and logistics partners.
 
 ## Features
